@@ -36,10 +36,11 @@ function Home({ signInWithDiscord }) {
             backgroundColor=" text-2xl  bg-background-text mr-16 px-10 py-8 rounded-2xl"
             textColor="text-description-color"
           />
-
+          <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
           <button className="px-6 py-3 mt-6 text-xl font-bold text-white transition duration-300 ease-in-out transform rounded-lg bg-purple-custom font-Lato hover:bg-purple-600 hover:text-white hover:scale-105">
             Add to server
           </button>
+          </a>
         </div>
       </section>
     </div>
