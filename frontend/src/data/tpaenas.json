@@ -1,0 +1,80 @@
+[
+	{
+    "userID": "userID_1",
+		"server": [
+			{
+				"id": "serverID_1", 
+				"commands": [
+					{
+						"command" : "arc", 
+						"value" : true
+					},
+					{
+						"command" : "ce", 
+						"value" : true
+					},
+					{
+						"command" : "cs", 
+						"value" : true
+					}
+				]
+			},
+			{
+				"id": "serverID_2", 
+				"commands": [
+					{
+						"command" : "arc", 
+						"value" : true
+					},
+					{
+						"command" : "ce", 
+						"value" : true
+					},
+					{
+						"command" : "cs", 
+						"value" : true
+					}
+				]
+			} 
+  	]
+	},
+	{
+    "userID": "userID_2",
+		"server": [
+			{
+				"id": "serverID_1", 
+				"commands": [
+					{
+						"command" : "arc", 
+						"value" : true
+					},
+					{
+						"command" : "ce", 
+						"value" : true
+					},
+					{
+						"command" : "cs", 
+						"value" : true
+					}
+				]
+			},
+			{
+				"id": "serverID_2", 
+				"commands": [
+					{
+						"command" : "arc", 
+						"value" : true
+					},
+					{
+						"command" : "ce", 
+						"value" : true
+					},
+					{
+						"command" : "cs", 
+						"value" : true
+					}
+				]
+			} 
+  	]
+	}
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "command": "/help",
+    "description": "List down all the available commands"
+  },
+
+  {
+    "command": "/handbook",
+    "description": "Query through the student handbook for information"
+
+  },
+
+  {
+    "command": "/academic-supp",
+    "description": "Info for the Academic Support Unit"
+  },
+
+  {
+    "command": "/alumni",
+    "description": "Info for the Alumni Affairs"
+  },
+
+  {
+    "command": "/student-council",
+    "description": "Info for the Student Council"
+  },
+
+  {
+    "command": "/campus-fac",
+    "description": "Info for the Campus's Policies and Regulation"
+  },
+
+    {
+    "command": "/cc",
+    "description": "Info for the Career Center"
+  },
+
+  {
+    "command": "/club",
+    "description": "Info for the Student Club and Cultural Activities"
+  },
+  
+    {
+    "command": "/drgp",
+    "description": "Info about Degree Requirements and Graduation Procedures"
+  },
+
+  {
+    "command": "/facilities",
+    "description": "info about the Campus Facilities"
+  },
+
+  {
+    "command": "/grading-sys",
+    "description": "Info about the Grading and Evaluation Criteria."
+  },
+
+  {
+    "command": "/financial-aid",
+    "description": "Info about the Financial Aid and Scholarships"
+  },
+
+  {
+    "command": "/iconnect",
+    "description": "Info about the IConnect Program"
+  }
+ 
+]
