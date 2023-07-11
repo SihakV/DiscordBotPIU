@@ -17,6 +17,6 @@
     "start:frontend": "concurrently \"cd frontend && npm start\"",
     "start:backend": "concurrently \"cd backend && npm start\"",
     "start": "concurrently \"cd frontend && npm start\" \"cd backend && npm start\"",
-    "build": "react-scripts build"
+    "build": "cd frontend && react-scripts build"
   }
 }
